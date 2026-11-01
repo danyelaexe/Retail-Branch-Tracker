@@ -1,2 +1,2 @@
 # Retail-Branch-Tracker
-business tracker
+The Retail Branch and Service Coverage Mapper is a GIS-based application that helps businesses manage and visualize retail branch locations and service coverage areas through an interactive map. It enables companies to monitor branch distribution, store essential branch information, and evaluate the accessibility of their products and services across different barangays and municipalities, supporting better planning and decision-making.
